@@ -1,3 +1,5 @@
+You want to visit this site click the link below: http://hasankoman.github.io/take-note
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
