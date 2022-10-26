@@ -1,4 +1,4 @@
-You want to visit this site click the link below: http://hasankoman.github.io/take-note
+#You want to visit this site click the link below: http://hasankoman.github.io/take-note
 
 # Getting Started with Create React App
 
